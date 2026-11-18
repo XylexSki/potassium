@@ -2,7 +2,9 @@ html from everywhere
 
 repo: https://github.com/XylexSki/potassium/tree/main
 
-etc:
-https://google.com
-https://urlyte.com/potassium/main
-https://scvmath.org
+sites:
+google - https://google.com
+warpdesk - https://scvmath.org
+web dashers - https://web-dashers.github.io
+invisiproxy - https://printwiz.biz
+
